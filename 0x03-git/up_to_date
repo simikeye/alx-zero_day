@@ -1,1 +1,1 @@
-echo update > up_to_date
+git pull echo update > up_to_date
